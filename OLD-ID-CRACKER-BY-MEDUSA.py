@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰R140N")
-	subprocess.check_output(["am", "start", " https://www.facebook.com/profile.php?id=100062972756328"])
+	runtxt("\033[0;92m ADMIN WHATSAPPðŸ”°Bi365k")
+	subprocess.check_output(["am", "start", " 03431527351"])
 
 def irfan():
 	
@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/Hackerboy679').text
+			plr = requests.get('https://github.com/Hackerboy679/Trecker/blob/main/Khan.py ').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -105,17 +105,17 @@ _________.__.__         .__     __   .__
  |______  /__|____(____  /____/ |__|_ \___|  (____  /___|  / 
         \/             \/            \/    \/     \/     \
 
-\033[1;90m══════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFACEBOOK : BILAL KHAN KING
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mFB GROUP : NO FRIEND
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mGITHUB   : HACKERBOY679
-\033[1;91m [\033[1;94m✓\033[1;91m] \033[1;92mWhatsapp  : 03431527351
-\033[1;90m══════════════════════════════════════════════════
+\033[1;90mâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+\033[1;91m [\033[1;94mâœ“\033[1;91m] \033[1;92mFACEBOOK : BILAL KHAN KING
+\033[1;91m [\033[1;94mâœ“\033[1;91m] \033[1;92mFB GROUP : NO FRIEND
+\033[1;91m [\033[1;94mâœ“\033[1;91m] \033[1;92mGITHUB   : HACKERBOY679
+\033[1;91m [\033[1;94mâœ“\033[1;91m] \033[1;92mWhatsapp  : 03431527351
+\033[1;90mâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
-		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
-		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
+		print("%s [%sâ€¢%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
+		print("%s [%sâ€¢%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
+		print("%s [%sâ€¢%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
+		print("%s [%sâ€¢%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
 		print("%s [%s01%s]%s CRACK RANDOM FB ID 2009-11 %s(PRO) V1[High Speed]"%(R,G,R,Y,G))
 		print("%s [%s02%s]%s CRACK RANDOM FB ID 2005-8 %s (PRO) V2[High Speed]"%(R,G,R,Y,G))
